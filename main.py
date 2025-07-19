@@ -1,5 +1,4 @@
 
- HEAD
 from keep_alive import keep_alive
 import telebot
 from telebot import types
@@ -165,4 +164,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 5d776aea62a13e35e0aa578dec1455e0e69966b6
